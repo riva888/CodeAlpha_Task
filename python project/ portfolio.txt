@@ -1,0 +1,3 @@
+Stock,Quantity,Value
+TSLA,250,62500
+Total Investment,,62500
